@@ -15,7 +15,7 @@ Utilizei o modelo acima como guia. Os únicos itens que foi possível aproveitar
 ![My Image](Imagens/tribunalFrente.png)
 ![My Image](Imagens/tribunalFundos.png)
 
-
+<h3>Mozilla Hubs:</h3>
 Depois de pronto, o modelo foi colocado na plataforma <a href="https://hubs.mozilla.com/">Mozilla Hubs</a>, que é uma plataforma interativa de realidade virtual.
 <a href="https://f0fbb746b5.us1.myhubs.net/link/PKAtH4P">Neste link</a> é possível navegar pelo tribunal.
 
